@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import Home from '../views/Home/Home.vue'
 // 课程相关页面
 import CourseDetail from '../views/CourseDetail/CourseDetail.vue'
 import Login from '../views/Login/Login.vue'
